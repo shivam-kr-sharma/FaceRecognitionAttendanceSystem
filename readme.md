@@ -8,8 +8,8 @@ This repository contains the Python script for a face recognition-based attendan
 - **Attendance Logging**: Automatically logs the attendance with timestamps in a CSV file.
 - **Image Processing**: Uses OpenCV (`cv2`) for image processing tasks.
 
-## Setup and Installation
+## Setup 
+"data" is the path to the directory containing the images.
 
-1. **Install Required Libraries**: You need to have `face_recognition`, `opencv-python` (`cv2`), `numpy`, and `pickle` installed in your environment.
 
 
